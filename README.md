@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200px" width="200px" style="text-align: center;" src="https://cdn.rawgit.com/MurhafSousli/ngx-sharebuttons/master/assets/logo.svg">
+  <img height="200px" width="200px" style="text-align: center;" src="https://www.dropbox.com/s/kzkw5vpp3i1o1yy/Shop_01.PNG?dl=0">
   <h1 align="center">Angular Share Buttons</h1>
   <p align="center"><img src="https://image.ibb.co/eY16JG/buttons.png" alt="Capture" border="0"></p>
 </p>
